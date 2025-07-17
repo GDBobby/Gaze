@@ -1,0 +1,15 @@
+.vs/
+.vcxproj
+*.bak
+*.filters
+#.user
+x64/
+userdatadir/
+build/
+
+#executables, my linux executables dont have extensions
+Gaze-debug
+Gaze
+*.exe
+out/
+.vscode/settings.json
